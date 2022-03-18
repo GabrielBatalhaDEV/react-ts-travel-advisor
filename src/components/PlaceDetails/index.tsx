@@ -1,3 +1,7 @@
 import React from "react";
 
-export function PlaceDetails() {}
+function PlaceDetails() {
+  return <h1>PlaceDetails</h1>;
+}
+
+export { PlaceDetails };

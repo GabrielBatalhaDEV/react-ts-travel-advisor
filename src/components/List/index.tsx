@@ -1,3 +1,7 @@
 import React from "react";
 
-export function List() {}
+function List() {
+  return <h1>List</h1>;
+}
+
+export { List };
